@@ -59,7 +59,7 @@ body {
     align-items: center;
     height: 100vh;
     margin-top: 60px;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    background: #dc143c;
     color: white;
 }
 
